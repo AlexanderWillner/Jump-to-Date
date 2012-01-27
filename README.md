@@ -1,10 +1,10 @@
 # Jump to Date - Alfred Extension for iCal #
 
-### After an idea of Martijn Aslander (@resourcerer) ###
+### After an idea of Martijn Aslander - @resourcerer ###
 
 v1.0 - 120127
 
-Made by Dieter Kors (@d13t) - dieter.kors@gmail.com
+Made by Dieter Kors - @d13t
 
 ## Description ##
 
