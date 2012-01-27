@@ -14,7 +14,7 @@ To install, simply double-click the file "Jump to Date.alfredextension". *If you
 
 ## Syntax Examples ##
 
-*You can use your Mac's Dates Formats as date notation. (System Preferences / Language & Text / Formats)*
+*You can use your Mac's Dates Formats for the date notation. (System Preferences / Language & Text / Formats)*
 
 `ical 13 10` / `ical 13-10` / `ical 13/10` / `ical 13 oktober` / `ical 13 okt`
 > will jump to 13-10 on the current year
