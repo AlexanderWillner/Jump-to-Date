@@ -67,7 +67,9 @@ will jump to the next week/month/year in the appropriate view
 - change the 'glyphed' operators >= and <= in _source to be readable in github
 - search for event(s)
 - fix dot date notation (13.10)
-- "yesterday"
+- "ical yesterday"
+- "ical 2014"
+- "ical 4 weeks"
 - revamp icon
 
 ## Changes ##
