@@ -8,13 +8,19 @@ Made by Dieter Kors - @d13t
 
 ## Description ##
 
-Alfred Extension, written in AppleScript, to jump to a certain date in iCal.
+[Alfred](http://www.alfredapp.com) Extension, written in AppleScript, to jump to a certain date in iCal.
 
-To install, simply double-click the file "Jump to Date.alfredextension". *If you've allready have another version of Jump to Date installed, remove it first.* Default keyword to activate the extension is set to **ical**.
+Required: the [Powerpack](http://www.alfredapp.com/powerpack/) for [Alfred](http://www.alfredapp.com).
+
+To install, simply double-click the file "Jump to Date.alfredextension".  
+(*If you've allready have another version of Jump to Date installed, remove it first.*)
+
+Default keyword to activate the extension is set to **ical**.
 
 ## Syntax Examples ##
 
-*You can use your Mac's Dates Formats for the date notation. (System Preferences / Language & Text / Formats)*
+*You can use your Mac's Dates Formats for the date notation.  
+(System Preferences / Language & Text / Formats)*
 
 
 `ical 13 10` / `ical 13-10` / `ical 13/10` / `ical 13 oktober` / `ical 13 okt`
@@ -65,11 +71,11 @@ will jump to the next week/month/year in the appropriate view
 ## To do ##
 
 - change the 'glyphed' operators >= and <= in _source to be readable in github
-- search for event(s)
+- search for event(s), rq Martijn Aslander
 - fix dot date notation (13.10)
 - "ical yesterday"
-- "ical 2014"
-- "ical 4 weeks"
+- "ical 2014" rq Mike Verbruggen
+- "ical 4 weeks" rq Mike Verbruggen
 - revamp icon
 
 ## Changes ##
