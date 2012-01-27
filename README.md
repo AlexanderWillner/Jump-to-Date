@@ -82,7 +82,7 @@ will jump to the next week/month/year in the appropriate view
 
 *v1.0 - 120127*
 
-- completely rewritten (three times)
+- completely rewritten
 - versatile syntax
 - Alfred keyword changed to "ical"
 - week nummber requires "week" or "wk" in syntax
