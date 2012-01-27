@@ -14,11 +14,13 @@ To install, simply double-click the file "Jump to Date.alfredextension". *If you
 
 ## Syntax Examples ##
 
-`ical 13 10` / `ical 13-10` / `ical 13/10`
+*You can use your Mac's Dates Formats as date notation. (System Preferences / Language & Text / Formats)*
+
+`ical 13 10` / `ical 13-10` / `ical 13/10` / `ical 13 oktober` / `ical 13 okt`
 > will jump to 13-10 on the current year
 > and switch calendar view to week view (default view)
 
-`ical 13 10 14` / `ical 13-10-2014` / `ical 13/10/2014`
+`ical 13 10 14` / `ical 13-10-2014` / `ical 13/10/2014` / `ical 13 oktober 2014` / `13 okt 14`
 > will jump to 13-10-2014 on the current year
 > and switch calendar view to week view (default view)
 
@@ -52,6 +54,7 @@ To install, simply double-click the file "Jump to Date.alfredextension". *If you
 
 ## To do ##
 
+- change the 'glyphed' operators >= and <= in _source to be readable in github
 - search for event(s)
 - fix dot date notation (13.10)
 - "yesterday"
