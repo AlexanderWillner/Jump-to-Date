@@ -16,41 +16,51 @@ To install, simply double-click the file "Jump to Date.alfredextension". *If you
 
 *You can use your Mac's Dates Formats for the date notation. (System Preferences / Language & Text / Formats)*
 
+
 `ical 13 10` / `ical 13-10` / `ical 13/10` / `ical 13 oktober` / `ical 13 okt`
-> will jump to 13-10 on the current year
-> and switch calendar view to week view (default view)
+
+will jump to 13-10 on the current year and switch calendar view to week view (default view)
 
 `ical 13 10 14` / `ical 13-10-2014` / `ical 13/10/2014` / `ical 13 oktober 2014` / `13 okt 14`
-> will jump to 13-10-2014 on the current year
-> and switch calendar view to week view (default view)
+
+will jump to 13-10-2014 on the current year and switch calendar view to week view (default view)
 
 `ical 13-10-2015 d`
-> will jump to 13-10-2010 in day view
+
+will jump to 13-10-2010 in day view
 
 `ical 13-10-2015 w`
-> will jump to 13-10-2010 in week view
+
+will jump to 13-10-2010 in week view
 
 `ical 13-10-2015 m`
-> will jump to 13-10-2010 in month view
-> (Mac OS X Lion only, needs 'Enable access for assistive devices' to be on)
+
+will jump to 13-10-2010 in month view (Mac OS X Lion only, needs 'Enable access for assistive devices' to be on)
 
 `ical 13-10-2015 y`
-> will jump to 13-10-2010 in year view
+
+will jump to 13-10-2010 in year view
 
 `ical week 42`
-> will jump to week number 42 in week view
+
+will jump to week number 42 in week view
 
 `ical today`
-> will jump to today's date
+
+will jump to today's date
 
 `ical today d`
-> will jump to today's date in day view
+
+will jump to today's date in day view
 
 `ical tomorrow`
-> will jump to tomorrow's date
+
+will jump to tomorrow's date
 
 `ical next week` / `ical next month` / `ical next year`
-> will jump to the next week/month/year in the appropriate view
+
+will jump to the next week/month/year in the appropriate view
+
 
 ## To do ##
 
