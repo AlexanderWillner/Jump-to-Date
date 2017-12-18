@@ -3,8 +3,10 @@
 ### After an idea of Martijn Aslander - @resourcerer ###
 
 v1.0 - 120127
+v2.0 - 171218
 
 Made by Dieter Kors - @d13t
+Updated for Alfred 3 by Alexander Willner - @AlexWillner
 
 ## Description ##
 
@@ -76,9 +78,12 @@ will jump to the next week/month/year in the appropriate view
 - "ical yesterday"
 - "ical 2014" rq Mike Verbruggen
 - "ical 4 weeks" rq Mike Verbruggen
-- revamp icon
 
 ## Changes ##
+
+*v2.0 - 171218*
+- updated for Alfred 3
+- revamped icon
 
 *v1.0 - 120127*
 
